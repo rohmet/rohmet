@@ -1,11 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohmet0) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harahman_abd_arib)
 
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
@@ -21,6 +14,12 @@ I'm an **Information System student** who is passionate about writing code, solv
 - 📚 I’m currently learning **backend web development using NodeJS, ExpressJS, and MongoDB**.  
 - 👯 I’m looking for a **software development internship**.  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/harahman-abd-arib) | [Gmail](mailto:harahmanabdarib@gmail.com)  
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohmet0) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harahman_abd_arib)
+
 
 ⭐️ From [rohmet](https://github.com/rohmet)  
 
