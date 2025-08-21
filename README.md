@@ -13,15 +13,11 @@ I'm an **Information System student** who is passionate about writing code, solv
 - 🔭 I’m currently a **Information System** student at **University Islamic Alauddin Makassar**.  
 - 📚 I’m currently learning **backend web development using NodeJS, ExpressJS, and MongoDB**.  
 - 👯 I’m looking for a **software development internship**.  
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/harahman-abd-arib) | [Gmail](mailto:harahmanabdarib@gmail.com)  
+- 📫 Reach me at:  
 
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohmet0) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harahman_abd_arib)
-
-
-⭐️ From [rohmet](https://github.com/rohmet)  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohmet0) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harahman_abd_arib)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:harahmanabdarib@gmail.com)
 
 ---
 
