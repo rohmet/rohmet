@@ -10,7 +10,7 @@
 
 I'm an **Information System student** who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a System Information student at **University Islamic Alauddin Makassar**.  
+- 🔭 I’m currently a **Information System** student at **University Islamic Alauddin Makassar**.  
 - 📚 I’m currently learning **backend web development using NodeJS, ExpressJS, and MongoDB**.  
 - 👯 I’m looking for a **software development internship**.  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/harahman-abd-arib) | [Gmail](mailto:harahmanabdarib@gmail.com)  
