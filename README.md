@@ -6,13 +6,13 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 
 I'm an **Information System student** who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a **Information System** student at **University Islamic Alauddin Makassar**.  
 - 📚 I’m currently learning **backend web development using NodeJS, ExpressJS, and MongoDB**.  
-- 👯 I’m looking for a **software development internship**.  
+- 👯 I’m looking for a **Web development internship**.  
 - 📫 Reach me at:  
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohmet0) 
