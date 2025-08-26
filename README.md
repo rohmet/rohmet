@@ -34,11 +34,3 @@ I'm an **Information System student** who is passionate about writing code, solv
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 </div>
-
----
-
-### 🔥 My Stats  
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rohmet&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
