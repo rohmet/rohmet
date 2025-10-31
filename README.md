@@ -15,7 +15,6 @@ I'm an **Information System student** who is passionate about writing code, solv
 - 👯 I’m looking for a **Web development internship**.  
 - 📫 Reach me at:  
 
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rohmet0) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harahman-abd-arib-664047249/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:harahmanabdarib@gmail.com)
 
