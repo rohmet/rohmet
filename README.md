@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
+## Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" />
 
 </div>
 
@@ -11,8 +11,7 @@
 I'm an **Information System student** who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a **Information System** student at **University Islamic Alauddin Makassar**.  
-- 📚 I’m currently learning **backend web development using NodeJS, ExpressJS, and MongoDB**.  
-- 👯 I’m looking for a **Web development internship**.  
+- 📚 I’m currently learning the “Front-End Web & Back-End with AI” path through **Asah by Dicoding**.  
 - 📫 Reach me at:  
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harahman-abd-arib-664047249/)
@@ -23,12 +22,9 @@ I'm an **Information System student** who is passionate about writing code, solv
 ### 🛠 Tech Stack  
 <div align="center">
   
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
