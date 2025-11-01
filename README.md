@@ -18,8 +18,6 @@ I'm an **Information System student** who is passionate about writing code, solv
   [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:harahmanabdarib@gmail.com)
 
 ---
-
-### 🛠 Tech Stack  
 <div align="center">
   
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
