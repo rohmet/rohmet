@@ -11,7 +11,7 @@
 I'm an **Information System student** who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a **Information System** student at **University Islamic Alauddin Makassar**.  
-- 📚 I’m currently learning the “Front-End Web & Back-End with AI” path through **Asah by Dicoding**.  
+- 📚 I’m currently learning the “AI” path through **Pijak by Dicoding**.  
 - 📫 Reach me at:  
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harahman-abd-arib-664047249/)
